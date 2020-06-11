@@ -9,6 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "jaysavsani07",
+    "workplace" : "nividata",
+    "designation" : "Mobile application developer",
+    "he_loves" : "Developing flutter applications"
   }
 }
