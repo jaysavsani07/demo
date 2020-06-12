@@ -1,7 +1,7 @@
 {
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile_name": "Jay Savsani"
+  "city": "Mumbai",
+  "streets": [
+    "address1",
+    "address2"
+  ]
 }
